@@ -81,9 +81,7 @@ Remember to ensure proper safety precautions while working with the hardware and
 | A0  |  Buzzer |
 
 
-## Programming languages used
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico" alt="blender" width="40" height="40"/> </a>
+## Programming languaalt="blender" width="40" height="40"/> </a>
 
 
-## Developer
-*  [abhineetraj1](http://github.com/abhineetraj1)
+
